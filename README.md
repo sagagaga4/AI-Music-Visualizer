@@ -5,7 +5,7 @@ A real‑time audio visualizer built with React and Vite. It uses the Web Audio 
 ## Links
 
 - Live Demo: <ADD_YOUR_DEPLOYED_LINK_HERE>
-- Repository: <ADD_YOUR_GITHUB_REPO_URL_HERE>
+- Repository: https://github.com/sagagaga4/AI-Music-Visualizer
 
 ## Features
 
