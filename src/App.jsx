@@ -1,9 +1,6 @@
 import './App.css'
 import { useState, useRef, useEffect } from 'react'
 
-
-// particles.js is injected via CDN in index.html
-
 function App() {
   const [audioSrc, setAudioSrc] = useState(null) // store uploaded audio
   const audioRef = useRef(null)
